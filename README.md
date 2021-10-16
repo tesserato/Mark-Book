@@ -82,7 +82,7 @@ You can know more about the developer [here](https://carlos-tarjano.web.app/). I
 
 ### Bitcoin
 
-[1JZcai4xDpBrt2wCx1uZBmVx7MjvzVqwBz](https://www.blockchain.com/btc/address/1JZcai4xDpBrt2wCx1uZBmVx7MjvzVqwBz)
+[![Bitcoin](./icons/bitcoin.png)](https://www.blockchain.com/btc/address/1JZcai4xDpBrt2wCx1uZBmVx7MjvzVqwBz)
 
 ### PayPal
 
