@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fab"
+   data-icon="paypal"
+   class="svg-inline--fa fa-paypal fa-w-12"
+   role="img"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="paypal.svg"
+   width="32"
+   height="32"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:export-filename="C:\Users\tesse\Desktop\Files\Reps\Mark-Book_PUBLIC\icons\paypal.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="9.1702911"
+     inkscape:cx="17.603228"
+     inkscape:cy="17.096192"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="currentColor"
+     d="m 10.470753,18.732448 c -0.239989,1.316508 -1.1930875,7.453358 -1.4742163,9.188133 -0.020571,0.123423 -0.068571,0.171421 -0.2057039,0.171421 h -5.115186 c -0.5211182,0 -0.8982431,-0.45255 -0.8296749,-0.953097 L 6.8640667,1.6384029 c 0.1028525,-0.65825481 0.6925382,-1.15880172 1.371363,-1.15880172 10.4429333,0 11.3206063,-0.25370271 13.9879063,0.78167632 4.120948,1.5976391 4.498074,5.4511696 3.017,9.6201135 -1.474215,4.292367 -4.971192,6.136852 -9.6064,6.191707 -2.975858,0.04799 -4.765488,-0.479978 -5.163183,1.65935 z m 16.8472,-9.8669608 c -0.123423,-0.089143 -0.17142,-0.1234228 -0.205705,0.089143 -0.137137,0.7816762 -0.349698,1.5427838 -0.603399,2.3038908 -2.73587,7.803057 -10.31951,7.124231 -14.022192,7.124231 -0.418265,0 -0.692538,0.226276 -0.747393,0.644541 -1.549641,9.626972 -1.8581975,11.636019 -1.8581975,11.636019 -0.06857,0.486834 0.2399875,0.884529 0.7268235,0.884529 h 4.354079 c 0.589686,0 1.076519,-0.431979 1.193086,-1.021666 0.048,-0.370267 -0.07542,0.418265 0.987381,-6.260273 0.315413,-1.5085 0.980525,-1.350793 2.009047,-1.350793 4.86834,0 8.667016,-1.974763 9.798392,-7.700206 0.445693,-2.386172 0.315413,-4.895767 -1.631922,-6.3494122 z"
+     id="path2"
+     style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ff3f7a;fill-opacity:1;stroke:none;stroke-width:2.13543;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1" />
+</svg>
