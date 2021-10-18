@@ -78,6 +78,8 @@ Flutter is a great library, and made it possible to make those 3 apps with a sin
 
 You can know more about the developer [here](https://carlos-tarjano.web.app/). If you have comments, suggestions, questions or would like to be part of the team, drop a message at **tesserato@hotmail.com**
 
+There is also a "Songs" folder, where .mb files can be downloaded. If you would like to contribute songs, send them to **tesserato@hotmail.com**.
+
 ## You can donate using one of the methods below:
 
 ### Bitcoin
