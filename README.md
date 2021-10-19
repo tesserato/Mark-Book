@@ -47,17 +47,21 @@ The app is completely free, without ads, and is available on a number of differe
 
 ## Windows 64 bit
 
-Windows releases are available in the "Releases" section of this repository.
+Windows releases are available in the "Releases" section of this repository:
 
-[Installer](https://github.com/tesserato/Mark-Book/releases/download/v1.2/markbook.exe)
+[Installer](https://github.com/tesserato/Mark-Book/releases/download/v1.2/MarkBook_1_3_Installer.exe)
 
-[Zip](https://github.com/tesserato/Mark-Book/releases/download/v1.2/MarkBook.zip)
+[Zip](https://github.com/tesserato/Mark-Book/releases/download/v1.2/MarkBook_1_3.zip)
 
 ## Android 
 
-[APK](https://github.com/tesserato/Mark-Book/releases/download/v1.2/MarkBook.apk)
+[Play Store](https://play.google.com/store/apps/details?id=mark.book)
 
-Play Store version Coming soon
+The apk can be directly downloaded in the "Releases" section of this repository:
+
+[APK](https://github.com/tesserato/Mark-Book/releases/download/v1.2/MarkBook_1_3.apk)
+
+
 
 
 # Extensive list of [chords](https://en.wikibooks.org/wiki/Guitar/Chords/Full_List_Standard_Tuning)
